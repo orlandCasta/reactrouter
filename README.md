@@ -36,7 +36,21 @@ You just have to install the dependencies and run the project.
    ```
 2. Install packages
    ```sh
-   npm install o yarn
+   npm install
+   ```
+   If you use yarn
+   
+    ```sh
+   yarn
+   ```
+3. Run proyect
+   ```sh
+   npm run dev
+   ```
+   If you use yarn
+   
+   ```sh
+   yarn dev
    ```
 
 <!-- LICENSE -->
