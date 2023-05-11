@@ -9,9 +9,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This repository contains the React Router start tutorial, which can be obtained directly from the documentation https://reactrouter.com/en/main/start/tutorial during its creation was done with react router dom version `6.11.1` , this with the aim of learning and applying the main changes that occurred after version `6.4.0` of react router dom, such as createBrowserRouter, loader, action etc.<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
+This repository contains the React Router start tutorial, which can be obtained directly from the documentation https://reactrouter.com/en/main/start/tutorial during its creation was done with react router dom version `6.11.1` , this with the aim of learning and applying the main changes that occurred after version `6.4.0` of react router dom, such as createBrowserRouter, loader, action etc.
 
 ### Built With
 
@@ -21,9 +19,6 @@ The application does not have any programming language.
 * React
 * HTML
 * CSS
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -57,5 +52,3 @@ You just have to install the dependencies and run the project.
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
